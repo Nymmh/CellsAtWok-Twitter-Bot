@@ -1,0 +1,16 @@
+node_modules
+.npm
+package-lock.json
+package.json
+.node_repl_history
+npm-debug.log
+logs
+*.log
+*.tgz
+obj
+bin
+logger.js
+config.js
+start.bat
+CellsAtWok.js
+images
