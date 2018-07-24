@@ -4,7 +4,7 @@ This is just a continuation of the main file, just in another file on github for
 
 //Basically stalking tweets that include @example
 var stream = T.stream('statuses/filter',{
-    stalk: '@example'
+    track: '@example'
 });
 
 const anime = 'Hataraku Saibou \nCells at Work';
